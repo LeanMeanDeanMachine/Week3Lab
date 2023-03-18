@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76e00a3c-acca-4f7d-b535-6f14409e6492" name="Changes" comment="commented out last">
+    <list default="true" id="76e00a3c-acca-4f7d-b535-6f14409e6492" name="Changes" comment="wrote an enhanced for loop that prints out each element in the array.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/LabWeek3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LabWeek3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +53,7 @@
       <option name="presentableId" value="Default" />
       <updated>1679163455149</updated>
       <workItem from="1679163456384" duration="653000" />
-      <workItem from="1679167031535" duration="703000" />
+      <workItem from="1679167031535" duration="1315000" />
     </task>
     <task id="LOCAL-00001" summary="create an array with the following values: 1, 5, 2, 8, 13, 6">
       <created>1679163650459</created>
@@ -110,7 +111,21 @@
       <option name="project" value="LOCAL" />
       <updated>1679167583537</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="wrote a traditional for loop that prints out each element in the array.">
+      <created>1679167788922</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1679167788922</updated>
+    </task>
+    <task id="LOCAL-00010" summary="wrote an enhanced for loop that prints out each element in the array.">
+      <created>1679168039032</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1679168039032</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -124,6 +139,8 @@
     <MESSAGE value="Print out the element in array at position 6. Index 6 is out of bounds." />
     <MESSAGE value="print out the element in the array at position -1. Index is out of bounds." />
     <MESSAGE value="commented out last" />
-    <option name="LAST_COMMIT_MESSAGE" value="commented out last" />
+    <MESSAGE value="wrote a traditional for loop that prints out each element in the array." />
+    <MESSAGE value="wrote an enhanced for loop that prints out each element in the array." />
+    <option name="LAST_COMMIT_MESSAGE" value="wrote an enhanced for loop that prints out each element in the array." />
   </component>
 </project>

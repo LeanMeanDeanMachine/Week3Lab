@@ -32,6 +32,17 @@ public class LabWeek3 {
             System.out.println(element);
         }
 
+        //create a new variable called sum, write a loop that adds each element in the array to the sum
+
+        System.out.println(" ");//Peace of Mind
+
+        int sum = 0;
+
+        for (int number : array) {
+            sum += number;
+            System.out.println(sum);
+        }
+
 
 
 
