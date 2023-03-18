@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="76e00a3c-acca-4f7d-b535-6f14409e6492" name="Changes" comment="int array with supplied values">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="76e00a3c-acca-4f7d-b535-6f14409e6492" name="Changes" comment="Print out last element in array without using index position">
       <change beforePath="$PROJECT_DIR$/src/LabWeek3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LabWeek3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,6 +33,10 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -46,6 +49,7 @@
       <option name="presentableId" value="Default" />
       <updated>1679163455149</updated>
       <workItem from="1679163456384" duration="653000" />
+      <workItem from="1679167031535" duration="328000" />
     </task>
     <task id="LOCAL-00001" summary="create an array with the following values: 1, 5, 2, 8, 13, 6">
       <created>1679163650459</created>
@@ -61,7 +65,21 @@
       <option name="project" value="LOCAL" />
       <updated>1679163889314</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Print out first element in the array">
+      <created>1679167119027</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1679167119027</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Print out last element in array without using index position">
+      <created>1679167307471</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1679167307471</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -70,6 +88,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="create an array with the following values: 1, 5, 2, 8, 13, 6" />
     <MESSAGE value="int array with supplied values" />
-    <option name="LAST_COMMIT_MESSAGE" value="int array with supplied values" />
+    <MESSAGE value="Print out first element in the array" />
+    <MESSAGE value="Print out last element in array without using index position" />
+    <option name="LAST_COMMIT_MESSAGE" value="Print out last element in array without using index position" />
   </component>
 </project>

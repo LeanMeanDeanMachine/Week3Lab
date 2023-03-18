@@ -9,5 +9,9 @@ public class LabWeek3 {
         //print out the last element in the array without using the number 5
 
         System.out.println(array[array.length - 1]);
+
+        //print out the element in the array at position 6. What happens?
+
+        System.out.println(array[6]);
     }
 }
