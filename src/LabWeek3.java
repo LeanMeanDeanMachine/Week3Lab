@@ -50,6 +50,20 @@ public class LabWeek3 {
         double average = (double) sum / array.length;
         System.out.println(average);
 
+        // write an enhanced loop that prints out each number in the array that is odd
+
+        System.out.println(" ");//Peace of Mind
+
+        for (int number : array) {
+            if (number % 2 != 0) {
+                System.out.println(number);
+            }
+        }
+
+
+
+
+
 
 
 
