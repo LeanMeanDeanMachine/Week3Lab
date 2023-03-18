@@ -60,14 +60,22 @@ public class LabWeek3 {
             }
         }
 
+        System.out.println(" ");
+
         //create an array that contains the values "Sam, Sally, Thomas and Robert
 
-        String[] firstName = new String[]{"Sam", "Sally", "Thomas", "Robert"};
-        System.out.println(firstName[0]);
+        String[] firstNames = new String[]{"Sam", "Sally", "Thomas", "Robert"};
+        System.out.println(firstNames[0]);
 
         System.out.println(" ");//Peace of mind
 
+        //calculate the sum of all the letters in the last array
 
+        int totalLetters = 0;
+        for (String name : firstNames)  {
+            totalLetters += name.length();
+            System.out.println(totalLetters);
+        }
 
 
 
