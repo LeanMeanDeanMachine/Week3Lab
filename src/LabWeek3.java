@@ -5,5 +5,9 @@ public class LabWeek3 {
 
         //print out the first element in the array
         System.out.println(array[0]);
+
+        //print out the last element in the array without using the number 5
+
+        System.out.println(array[array.length - 1]);
     }
 }
