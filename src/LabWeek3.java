@@ -12,6 +12,8 @@ public class LabWeek3 {
 
         //print out the element in the array at position 6. What happens?
 
-        System.out.println(array[6]);
+        //System.out.println(array[6]);
+
+
     }
 }
