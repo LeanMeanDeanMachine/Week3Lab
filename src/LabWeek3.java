@@ -18,6 +18,12 @@ public class LabWeek3 {
 
         // System.out.println(array[-1]);
 
+        //write a traditional for loop that prints out each element in the array
+
+        for (int i = 0; i < array.length; i++) {
+            System.out.println(array[i]);
+        }
+
 
     }
 }
