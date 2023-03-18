@@ -3,6 +3,7 @@ public class LabWeek3 {
         //create an array with the following values: 1, 5, 2, 8, 13, 6
         int[] array = {1, 5, 2, 8, 13, 6};
 
-
+        //print out the first element in the array
+        System.out.println(array[0]);
     }
 }
