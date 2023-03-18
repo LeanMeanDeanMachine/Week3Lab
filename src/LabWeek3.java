@@ -24,6 +24,16 @@ public class LabWeek3 {
             System.out.println(array[i]);
         }
 
+        //write an enhanced for loop that prints out each element in the arrray
+
+        System.out.println(" ");//Peace of Mind
+
+        for (int element : array) {
+            System.out.println(element);
+        }
+
+
+
 
     }
 }
