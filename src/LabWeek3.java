@@ -84,14 +84,17 @@ public class LabWeek3 {
         //write and test a method that takes a String name and prints out a greeting, this method returns nothing
         // See Method "Greet"
 
-        greet("Tom");
+        //greet("Tom");
 
         System.out.println(" ");//Peace of mind
 
         //write and test a method that takes a String name and returns a greeting do not print in the method
+        System.out.println(greet2("Bobby"));
     }
     public static void greet(String name) {
         System.out.println("Hello " + name);//Greet Method
     }
-
+    public static String greet2(String name) {
+        return "Hi " + name;
+    }
 }
