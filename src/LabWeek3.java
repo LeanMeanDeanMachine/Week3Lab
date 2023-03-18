@@ -72,15 +72,26 @@ public class LabWeek3 {
         //calculate the sum of all the letters in the last array
 
         int totalLetters = 0;
-        for (String name : firstNames)  {
-            totalLetters += name.length();
+        for (String names : firstNames)  {
+            totalLetters += names.length();
             System.out.println(totalLetters);
         }
 
 
 
+        System.out.println(" ");//Peace of mind
 
+        //write and test a method that takes a String name and prints out a greeting, this method returns nothing
+        // See Method "Greet"
 
+        greet("Tom");
 
+        System.out.println(" ");//Peace of mind
+
+        //write and test a method that takes a String name and returns a greeting do not print in the method
     }
+    public static void greet(String name) {
+        System.out.println("Hello " + name);//Greet Method
+    }
+
 }
