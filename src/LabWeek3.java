@@ -14,6 +14,10 @@ public class LabWeek3 {
 
         //System.out.println(array[6]);
 
+        //print out the element in the array at position -1. What happens?
+
+        System.out.println(array[-1]);
+
 
     }
 }
