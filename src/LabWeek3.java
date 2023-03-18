@@ -43,6 +43,13 @@ public class LabWeek3 {
             System.out.println(sum);
         }
 
+        //create a new variable called average and assign it the average value of the array to it
+
+        System.out.println(" ");//Peace of Mind
+
+        double average = (double) sum / array.length;
+        System.out.println(average);
+
 
 
 
