@@ -60,6 +60,13 @@ public class LabWeek3 {
             }
         }
 
+        //create an array that contains the values "Sam, Sally, Thomas and Robert
+
+        String[] firstName = new String[]{"Sam", "Sally", "Thomas", "Robert"};
+        System.out.println(firstName[0]);
+
+        System.out.println(" ");//Peace of mind
+
 
 
 
