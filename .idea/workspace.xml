@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76e00a3c-acca-4f7d-b535-6f14409e6492" name="Changes" comment="wrote greet method that takes a String name and prints out a greeting">
+    <list default="true" id="76e00a3c-acca-4f7d-b535-6f14409e6492" name="Changes" comment="wrote greet2 method that takes String name and returns a greeting + name.&#10;Print greeting outside of method">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LabWeek3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LabWeek3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +52,7 @@
       <option name="presentableId" value="Default" />
       <updated>1679163455149</updated>
       <workItem from="1679163456384" duration="653000" />
-      <workItem from="1679167031535" duration="5508000" />
+      <workItem from="1679167031535" duration="7038000" />
     </task>
     <task id="LOCAL-00001" summary="create an array with the following values: 1, 5, 2, 8, 13, 6">
       <created>1679163650459</created>
@@ -167,7 +166,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679176160874</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="wrote greet2 method that takes String name and returns a greeting + name.&#10;Print greeting outside of method">
+      <created>1679177336802</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1679177336802</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -189,6 +195,7 @@
     <MESSAGE value="wrote new String array consisting of 4 names" />
     <MESSAGE value="wrote for loop adding the length of each name in the firstNames array" />
     <MESSAGE value="wrote greet method that takes a String name and prints out a greeting" />
-    <option name="LAST_COMMIT_MESSAGE" value="wrote greet method that takes a String name and prints out a greeting" />
+    <MESSAGE value="wrote greet2 method that takes String name and returns a greeting + name.&#10;Print greeting outside of method" />
+    <option name="LAST_COMMIT_MESSAGE" value="wrote greet2 method that takes String name and returns a greeting + name.&#10;Print greeting outside of method" />
   </component>
 </project>
