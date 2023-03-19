@@ -90,11 +90,22 @@ public class LabWeek3 {
 
         //write and test a method that takes a String name and returns a greeting do not print in the method
         System.out.println(greet2("Bobby"));
+
+        //write and test a method that takes a string and an fint and returns true if the numbers of letters in the string is greater than the int
+        System.out.println(stringGreaterInt("dandyascandy", 5));
+
     }
     public static void greet(String name) {
         System.out.println("Hello " + name);//Greet Method
     }
     public static String greet2(String name) {
         return "Hi " + name;
+    }
+    public static boolean stringGreaterInt(String letters, int number) {
+        if (letters.length() > number) {
+            return true;
+        } else {
+            return false;
+        }
     }
 }
